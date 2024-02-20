@@ -1,5 +1,22 @@
-Step 1:
-Download the files
+# Drum Kit Web Application
 
-Step 2:
-just run the index.html file
+A simple web application that allows users to play drum sounds by clicking on the displayed drum pads or using corresponding keyboard keys.
+
+## How to Use
+
+1. Open the [Drum Kit](#) web application in your browser.
+2. Click on the displayed drum pads with your mouse.
+3. Alternatively, press the corresponding keyboard keys ('w', 'a', 's', 'd', 'j', 'k', 'l') to play drum sounds.
+
+Drum Sounds
+The application features the following drum sounds:
+
+'w': Tom-1
+'a': Tom-2
+'s': Tom-3
+'d': Tom-4
+'j': Snare
+'k': Crash
+'l': Kick Bass
+Contributing
+Feel free to contribute and improve the project. If you have any suggestions, bug reports, or enhancements, please open an issue or submit a pull request.
